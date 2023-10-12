@@ -1,0 +1,6 @@
+print("Welcome to Band name Genrater")
+cityname = input("Enter the name of the city: ")
+print(cityname)
+petname = input("Enter the name of the pet: ")
+print(petname)    
+print("your band name may be: " + cityname + " " + petname)
