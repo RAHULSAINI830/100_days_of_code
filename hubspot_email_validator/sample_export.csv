@@ -1,0 +1,10 @@
+First Name,Last Name,Email,Company
+Jane,Doe,jane.doe@gmail.com,Acme HVAC
+John,Smith,john.smith@outlook.com,Smith Plumbing
+Info,Desk,info@zentrades.pro,ZenTrades
+Sales,Team,sales@example.com,Example Co
+Typo,Local,nifo@zentrades.pro,ZenTrades
+Typo,Domain,someone@gmial.com,Unknown
+Bad,Syntax,not-an-email,Unknown
+Dead,Domain,user@thisdomaindoesnotexist-zt12345.com,Unknown
+Dup,Email,jane.doe@gmail.com,Acme HVAC
